@@ -12,5 +12,11 @@
   ],
   "observability": {
     "enabled": true
-  }
+  },
+  "routes": [
+    {
+      "pattern": "cf-hs-wh.centerfuze.com",
+      "custom_domain": true
+    }
+  ]
 }
