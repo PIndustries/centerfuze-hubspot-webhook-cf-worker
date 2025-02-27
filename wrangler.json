@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "cf-hs-wh-cf-worker",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d6f6d5b2-0a75-4960-9f21-9b443c717785",
+      "database_name": "centerfuze-hubspot-webhook"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
